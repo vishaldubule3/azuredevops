@@ -1,3 +1,4 @@
-# azuredevops
-my azure devops learning path 
-author -vishal 
+my basic github commands 
+git add . 
+git commit -m "
+git pull 
